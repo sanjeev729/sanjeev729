@@ -1,5 +1,6 @@
 ## Hi there, I'm Sanjeev Pal 👋## Senior Software Engineer | Distributed Systems & High-Performance Architecture
-I am a Senior Software Engineer with 11+ years of experience specializing in crafting scalable, fault-tolerant systems and driving technical excellence. My expertise lies at the intersection of advanced Java, concurrent programming, distributed platform optimization, and robust system design.
+I am a Senior Software Engineer with 11+ years of experience specializing in crafting scalable, fault-tolerant systems and driving technical excellence. 
+My expertise lies at the intersection of advanced Java, concurrent programming, distributed platform optimization, and robust system design.
 Beyond writing high-impact code, I am passionate about engineering leadership—mentoring junior and mid-level developers and fostering a culture of strong algorithmic thinking and architectural best practices.
 ------------------------------
 ## 🚀 Technical Core Competencies
