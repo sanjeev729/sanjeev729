@@ -28,10 +28,3 @@ Beyond writing high-impact code, I am passionate about engineering leadership—
 * 💼 LinkedIn: https://www.linkedin.com/in/sanjeev-pal-91000595
 * 📧 Email: sanjeevkumarpal729@gmail.com
 * 🌐 Medium: https://medium.com/@sanjeevkumarpal729
-
-------------------------------
-## 💡 Optimization Tips for Big Tech Recruiters
-
-   1. Pin Your Best Work: Pin exactly 4 to 6 repositories. Ensure they contain clean code, structured folders, and their own comprehensive README.md files explaining the architecture.
-   2. Use Keywords: Recruiters use automated tools to scan profiles. Keywords like Distributed Systems, Concurrency, JVM Tuning, Low-Latency, and Scalability are vital for senior roles.
-   3. Show Metrics: If you can, link to repositories where you have benchmarked code performance (e.g., "Reduced latency by 40% using custom thread pooling").
